@@ -1,0 +1,37 @@
+body {
+    background-color: #e9eaea
+}
+
+h1 {
+    color: #f65b5c;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.grijs {
+    color: #939598;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p {
+    padding: 10px 0px;
+    color: #939598;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+a {
+    color: #e9eaea;
+    background-color: #f65b5c;
+    padding: 10px;
+    border: solid #f65b5c;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
